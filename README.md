@@ -1,4 +1,6 @@
-# journal
+# Journal App in Vue
+This project is a journal app that I built using Vue.js. 
+From the Course [Vue.js: De cero a Experto](https://github.com/mjesusoj/Course-Vue)
 
 ## Project setup
 ```
